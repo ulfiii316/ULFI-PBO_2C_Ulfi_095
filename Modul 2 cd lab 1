@@ -42,8 +42,8 @@ class RekeningBank {
 class main {
     public static void main(String[] args) {
 
-        RekeningBank rekening1 = new RekeningBank("201803713107", "Tegar Vallen Tio Hermansyah", 750000);
-        RekeningBank rekening2 = new RekeningBank("201803713119", "Tegar Vallen Tio Hermansyah", 1250000);
+        RekeningBank rekening1 = new RekeningBank("201803713107", "Baiq Zulfia Rhodiatul Ihsani", 750000);
+        RekeningBank rekening2 = new RekeningBank("201803713119", "Baiq Zulfia Rhodiatul Ihsani", 1250000);
 
 
         rekening1.tampilkanInfo();
